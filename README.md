@@ -1,3 +1,5 @@
+This fork of [FastMCP](https://github.com/jlowin/fastmcp) provides the contrib module "selective_tools".  Read more about it under the [selective_tools README](src/fastmcp/contrib/selective_tools/README.md).
+---
 <div align="center">
 
 <!-- omit in toc -->
