@@ -17,6 +17,8 @@ permissions:
 
 jobs:
   update-sdk-docs:
+    # Only run in the main repository, not in forks
+    if: github.repository == 'jlowin/fastmcp'
     timeout-minutes: 5
     runs-on: ubuntu-latest
 
